@@ -1,0 +1,10 @@
+.DS_Store
+.vscode
+formattedION.js
+node_modules
+pdfs/
+getPDFs.js
+.env
+**/.env.*
+/src/public_styles/
+ions/VIGILANCE_PROD.js
